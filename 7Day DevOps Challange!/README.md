@@ -18,7 +18,7 @@ The goal is to build a strong foundation in DevOps practices, starting from the 
 
 ## 📂 Daily Notes
 
-- [Day 1: Introduction to DevOps & CI/CD Pipelines](Day-01/notes.md)
+- [Day 1: Introduction to DevOps & CI/CD Pipelines](Day 1/notes.md)
 
 ---
 
