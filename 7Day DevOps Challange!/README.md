@@ -7,18 +7,19 @@ The goal is to build a strong foundation in DevOps practices, starting from the 
 
 ## 📆 Daily Progress
 
-| Day | Topics Learned                          | Status |
-|-----|-----------------------------------------|--------|
-| 1   | What is DevOps? & Introduction to CI/CD | ✅ Done |
-| 2   | [To be filled]                          | 🔜     |
-| 3   | [To be filled]                          | 🔜     |
-| ... | ...                                     | ...    |
+| Day | Topics Learned                                         | Status |
+|-----|--------------------------------------------------------|--------|
+| 1   | What is DevOps? & Introduction to CI/CD                | ✅ Done |
+| 2   | AWS EC2 Setup, Remote Dev Environment, Java App Setup | ✅ Done |
+| 3   | [To be filled]                                         | 🔜     |
+| ... | ...                                                    | ...    |
 
 ---
 
 ## 📂 Daily Notes
 
-- [Day 1: Introduction to DevOps & CI/CD Pipelines](Day%201/notes.md)
+- [Day 1: Introduction to DevOps & CI/CD Pipelines](Day-01/notes.md)
+- [Day 2: AWS EC2 Setup, Remote Dev Environment, Java App](Day-02/notes.md)
 
 ---
 
