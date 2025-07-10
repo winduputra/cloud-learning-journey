@@ -18,8 +18,8 @@ The goal is to build a strong foundation in DevOps practices, starting from the 
 
 ## 📂 Daily Notes
 
-- [Day 1: Introduction to DevOps & CI/CD Pipelines](Day-01/notes.md)
-- [Day 2: AWS EC2 Setup, Remote Dev Environment, Java App](Day-02/notes.md)
+- [Day 1: Introduction to DevOps & CI/CD Pipelines](Day%201/notes.md)
+- [Day 2: AWS EC2 Setup, Remote Dev Environment, Java App](Day%202/notes.md)
 
 ---
 
