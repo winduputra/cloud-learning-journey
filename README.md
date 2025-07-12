@@ -1,38 +1,36 @@
-# Cloud Learning Journey 🚀
+# 🚀 7-Day DevOps Challenge
 
-Hello! I'm Windu Putra, this is a documentation of my learning journey about cloud computing, specifically AWS. 
-All my notes, lab results, and roadmaps are stored in this repository to help me stay consistent and open to share with the community.
-
-## 📌 Learning Progress
-- [x] AWS EC2: Creating & accessing instances
-- [x] AWS S3: Creating buckets & uploading files
-- [X] AWS IAM: Managing users & permissions
-- [ ] AWS CLI & SDK
-
-## 🌟 Certification Target
-- AWS Certified Cloud Practitioner → Target: August 2025
-
-## 📷 Screenshots & Documentation
-Please see the folders in this repo for details per week/material.
+This repository contains my personal learning notes and practice results from the **7-Day DevOps Challenge** I am currently following.  
+The goal is to build a strong foundation in DevOps practices, starting from the basics of CI/CD to implementing automation in real projects.
 
 ---
 
-### 4. **Create Notes per Material**
-Example file `Week-01-EC2/notes.md`
+## 📆 Daily Progress
 
-``markdown
-# Week 01: EC2 Instance Basics
+| Day | Topics Learned                                          | Status |
+|-----|---------------------------------------------------------|--------|
+| 1   | What is DevOps? & Introduction to CI/CD                 | ✅ Done |
+| 2   | AWS EC2 Setup, Remote Dev Environment, Java App Setup  | ✅ Done |
+| 3   | GitHub Repo Setup, Git Basics, First Commit & Push     | ✅ Done |
+| 4   | Secure Packages with AWS CodeArtifact                   | ✅ Done |
+| 5   | [To be filled]                                          | 🔜     |
+| ... | ...                                                     | ...    |
 
-## What to Learn
-- Launch EC2 instance (Amazon Linux 2)
-- Configure security group for SSH
-- Access EC2 using SSH from terminal
-- Stop, start, terminate the instance
+---
 
-## Screenshot
-![EC2 Launch](screenshot-ec2.png)
+## 📂 Daily Notes
 
-## Insight
-This practice helps to understand cloud computing basics about virtual servers & security access.
+- [Day 1: Introduction to DevOps & CI/CD Pipelines](Day%201/notes.md)
+- [Day 2: AWS EC2 Setup, Remote Dev Environment, Java App](Day%202/notes.md)
+- [Day 3: GitHub Repo Setup, Git Basics, First Commit](Day%203/notes.md)
+- [Day 4: Secure Packages with AWS CodeArtifact](Day%204/notes.md)
 
-Translated with DeepL.com (free version)
+---
+
+## 🎯 Why I'm Doing This
+
+I'm transitioning from a System Admin / Server role to a Cloud & DevOps Engineer, and this challenge helps me understand how modern software delivery pipelines work.
+
+---
+
+Feel free to follow my journey or provide suggestions!  
